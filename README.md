@@ -1,182 +1,223 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dũng%20Lê&fontAlign=50&fontAlignY=40&color=gradient&desc=AI%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=60"
-  width="100%"
-/>
+<img src="./assets/hero-banner.svg" alt="Lê Hoàng Dũng hero banner" width="100%" />
+
+<br />
+
+# Lê Hoàng Dũng
+
+### Mathematics & Informatics Undergraduate · Quantitative Research · Machine Learning · Data Systems
+
+<p>
+  <a href="mailto:dung.levc2810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dung.levc2810%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Dle28">
+    <img src="https://img.shields.io/badge/GitHub-Dle28-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hanoi%2C%20Vietnam-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/HUST-2024--2028-7C3AED?style=for-the-badge" alt="HUST 2024-2028">
+</p>
+
+<p>
+  <b>Building data-driven systems with mathematical thinking, measurable results, and practical engineering.</b>
+</p>
+
+<p>
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-github-stats">GitHub Stats</a> •
+  <a href="#-contact">Contact</a>
+</p>
 
 </div>
 
-About
+<img src="./assets/section-divider.svg" alt="section divider" width="100%" />
 
-I am a Mathematics and Informatics undergraduate at Hanoi University of Science and Technology. My work sits at the intersection of mathematical modeling, software engineering, and data-driven decision systems.
+## About Me
 
-I have built projects in quantitative finance, machine learning, relational database analytics, and blockchain development. I value reproducible experiments, measurable outcomes, and clear engineering structure.
+I am a **Mathematics and Informatics undergraduate at Hanoi University of Science and Technology (HUST)** with project experience across **quantitative finance, machine learning, blockchain development, and database analytics**.
+
+I enjoy turning ideas into systems that are:
+- grounded in data,
+- evaluated with clear metrics,
+- structured for reproducibility,
+- and useful in practical decision-making contexts.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Focus
-
-Quantitative research and systematic strategies
-
-Time-series analysis and feature engineering
-
-Machine-learning workflows
-
-Database design and analytical systems
+### 🎯 Current Focus
+- Systematic trading research on VN30F1M
+- Feature engineering for time-series data
+- Python and SQL workflows for analytics
+- Clean, documented, reproducible projects
 
 </td>
 <td width="50%" valign="top">
 
-Education
-
-Hanoi University of Science and Technology
-
-B.Sc. in Mathematics and Informatics2024 — Expected 2028CPA: 3.21 / 4.00
+### 🎓 Education
+**Hanoi University of Science and Technology**  
+Bachelor's Degree in Mathematics and Informatics  
+**CPA:** 3.21 / 4.00  
+**Duration:** 2024 - Expected 2028
 
 </td>
 </tr>
 </table>
 
-Selected projects
+<img src="./assets/mini-strip.svg" alt="decorative strip" width="100%" />
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="./assets/project-vn30.svg" alt="VN30F1M Quantitative Research" width="100%">
+### 📈 VN30F1M Quantitative Research
 
-Developed and backtested systematic strategies using VN30F1M 5-minute futures data.
+Developing and backtesting systematic strategies on **VN30F1M futures data** to support more structured and evidence-based trading decisions.
 
-Engineered price, volume, trend, momentum, volatility, and market-regime features
+**What I built**
+- Price, volume, trend, relative-momentum, volatility, and regime features
+- Signal generation and position sizing
+- Risk controls and transaction-cost evaluation
+- Adaptive exit rules and strategy backtesting
 
-Built signal generation, position sizing, risk controls, and adaptive exits
+**Training-period backtest**
+| Metric | Value |
+|---|---:|
+| Sharpe ratio | **2.17** |
+| CAGR | **30.31%** |
+| Maximum drawdown | **-7.98%** |
+| Profit factor | **1.65** |
 
-Evaluated transaction costs and backtest robustness
-
-Result: Sharpe 2.17 · CAGR 30.31% · Max drawdown -7.98% · Profit factor 1.65
-
-Python Machine Learning Time Series Backtesting
+`Python` `Quant Research` `Time Series` `Backtesting`
 
 </td>
 <td width="50%" valign="top">
 
-<img src="./assets/project-solana.svg" alt="Chocomica Solana Blockchain Contest" width="100%">
+### ⛓️ Chocomica - Solana Blockchain Contest
 
-Built the backend integration for a blockchain game developed in a team of four.
+A blockchain-based game in which players choose competing factions and interact with logic managed through the **Solana ecosystem**.
 
-Connected the application UI with Solana smart contracts
+**My contribution**
+- Worked as a backend developer in a four-person team
+- Connected the application UI with Solana smart contracts
+- Investigated communication issues between backend and Solana
+- Implemented access controls for player data
 
-Resolved smart-contract interaction and communication issues
-
-Implemented access controls for player data
-
-Contributed as a backend developer
-
-Solana Rust Backend Development Smart Contracts
+`Solana` `Rust` `Backend` `Smart Contracts`
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-<img src="./assets/project-olist.svg" alt="Olist E-commerce Database Analytics" width="100%">
+### 🛒 Olist E-commerce Database Analytics
 
-Designed a relational database and analytical workflow around the public Olist Brazilian e-commerce dataset.
+Designed and developed a relational database system based on the public **Olist Brazilian e-commerce dataset**.
 
-Performed data cleaning, integration, schema design, and normalization
+**What I worked on**
+- Data cleaning and integration
+- Relational schema design and normalization
+- SQL query optimization
+- Revenue analysis and forecasting workflow
 
-Optimized SQL queries and data-processing workflows
+`Python` `SQL` `MySQL` `Database Design` `Forecasting`
 
-Analyzed customers, orders, payments, products, and delivery data
+</td>
+<td width="50%" valign="top">
 
-Built a revenue analysis and forecasting workflow
+### 🧠 How I Like to Build
 
-Python SQL MySQL Database Design Data Analytics Forecasting
+I prefer projects that clearly show:
+- problem framing,
+- data assumptions,
+- system structure,
+- evaluation metrics,
+- limitations,
+- and possible next steps.
+
+That is the style I aim to keep across my repositories.
 
 </td>
 </tr>
 </table>
 
-Technical stack
-
 <div align="center">
 
-Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,mysql&theme=dark" alt="Python, C++, Rust and MySQL">
-&nbsp;
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-<img src="https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge" alt="Verilog">
-
-Data and machine learning
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code and Linux">
+<a href="https://github.com/Dle28?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories">
+</a>
 
 </div>
 
-Working principles
+<img src="./assets/section-divider.svg" alt="section divider" width="100%" />
 
-<table>
-<tr>
-<td align="center" width="25%"><b>01</b><br>Define the problem</td>
-<td align="center" width="25%"><b>02</b><br>Measure the baseline</td>
-<td align="center" width="25%"><b>03</b><br>Build reproducibly</td>
-<td align="center" width="25%"><b>04</b><br>Evaluate honestly</td>
-</tr>
-</table>
+## 🧰 Tech Stack
 
-GitHub overview
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,mysql&theme=light" alt="skills"/>
+  <img src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Verilog-7C3AED?style=for-the-badge" alt="Verilog">
+</p>
+
+### Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-1E293B?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-2563EB?style=for-the-badge" alt="Matplotlib">
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" alt="tools"/>
+  <img src="https://img.shields.io/badge/Jupyter-F97316?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+### Areas of Interest
+`Quantitative Research` · `Machine Learning` · `Database Design` · `Data Analysis` · `Blockchain Development` · `Software Engineering`
+
+<img src="./assets/mini-strip.svg" alt="decorative strip" width="100%" />
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=default&rank_icon=github"
-  >
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&rank_icon=github" alt="Dle28 GitHub statistics">
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=github_dark"
-  >
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=default"
-  >
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true" alt="Dle28 most used languages">
-</picture>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 
 </div>
 
-Contact
+## 🌱 Currently Exploring
+- More robust research pipelines for quantitative strategies
+- Better project presentation and reproducible repositories
+- Practical machine learning systems
+- Stronger integration between data analysis and software engineering
+
+## 🤝 Contact
 
 <div align="center">
 
-Interested in quantitative research, machine learning, data systems, and software engineering.
+I am open to conversations around **quantitative research, machine learning, databases, and practical software projects**.
 
+<a href="mailto:dung.levc2810@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email">
+</a>
+<a href="https://github.com/Dle28">
+  <img src="https://img.shields.io/badge/View_Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="View profile">
+</a>
 
+<br /><br />
 
-<br>
+<img src="./assets/footer-wave.svg" alt="footer wave" width="100%" />
 
-<sub>Mathematical thinking · Measurable results · Reproducible systems</sub>
+<sub><b>Mathematical thinking • Clean systems • Measurable outcomes</b></sub>
 
 </div>
