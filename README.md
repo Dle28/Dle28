@@ -5,182 +5,178 @@
   width="100%"
 />
 
-<h1>Hi, I'm Dũng 👋</h1>
-
-<p>
-  AI student focused on Computer Vision, NLP and Multimodal Learning.
-</p>
-
-<p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
-</p>
-
 </div>
 
----
+About
 
-## 👨‍💻 About Me
+I am a Mathematics and Informatics undergraduate at Hanoi University of Science and Technology. My work sits at the intersection of mathematical modeling, software engineering, and data-driven decision systems.
 
-- 🎓 AI student at HUST
-- ⚽ Building computer vision systems for football
-- 🧠 Learning NLP, BERT and multimodal models
-- 🚀 Interested in model deployment and practical AI applications
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,flask,mysql,git,github,docker,linux,vscode&perline=6" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
+I have built projects in quantitative finance, machine learning, relational database analytics, and blockchain development. I value reproducible experiments, measurable outcomes, and clear engineering structure.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ Football VAR System
+Focus
 
-Computer vision system for football analysis, player detection, tracking and event review.
+Quantitative research and systematic strategies
 
-**Technologies**
+Time-series analysis and feature engineering
 
-`Python` `PyTorch` `YOLO` `OpenCV`
+Machine-learning workflows
 
-<a href="https://github.com/YOUR_USERNAME/football-var-system">
-  View project →
-</a>
+Database design and analytical systems
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔎 Mini-CLIP Retrieval
+Education
 
-Image-text retrieval system using vision encoders, BERT and contrastive learning.
+Hanoi University of Science and Technology
 
-**Technologies**
-
-`PyTorch` `BERT` `ViT` `Transformers`
-
-<a href="https://github.com/YOUR_USERNAME/mini-clip-retrieval">
-  View project →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧮 Numerical Methods Toolkit
-
-Desktop application implementing numerical methods with an interactive graphical interface.
-
-**Technologies**
-
-`Python` `Tkinter` `NumPy`
-
-<a href="https://github.com/YOUR_USERNAME/numerical-methods-toolkit">
-  View project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 AI Backend API
-
-REST API for serving machine-learning models and processing predictions.
-
-**Technologies**
-
-`FastAPI` `Python` `Docker`
-
-<a href="https://github.com/YOUR_USERNAME/ai-backend-api">
-  View project →
-</a>
+B.Sc. in Mathematics and Informatics2024 — Expected 2028CPA: 3.21 / 4.00
 
 </td>
 </tr>
 </table>
 
----
+Selected projects
 
-## 📊 GitHub Statistics
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="./assets/project-vn30.svg" alt="VN30F1M Quantitative Research" width="100%">
+
+Developed and backtested systematic strategies using VN30F1M 5-minute futures data.
+
+Engineered price, volume, trend, momentum, volatility, and market-regime features
+
+Built signal generation, position sizing, risk controls, and adaptive exits
+
+Evaluated transaction costs and backtest robustness
+
+Result: Sharpe 2.17 · CAGR 30.31% · Max drawdown -7.98% · Profit factor 1.65
+
+Python Machine Learning Time Series Backtesting
+
+</td>
+<td width="50%" valign="top">
+
+<img src="./assets/project-solana.svg" alt="Chocomica Solana Blockchain Contest" width="100%">
+
+Built the backend integration for a blockchain game developed in a team of four.
+
+Connected the application UI with Solana smart contracts
+
+Resolved smart-contract interaction and communication issues
+
+Implemented access controls for player data
+
+Contributed as a backend developer
+
+Solana Rust Backend Development Smart Contracts
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<img src="./assets/project-olist.svg" alt="Olist E-commerce Database Analytics" width="100%">
+
+Designed a relational database and analytical workflow around the public Olist Brazilian e-commerce dataset.
+
+Performed data cleaning, integration, schema design, and normalization
+
+Optimized SQL queries and data-processing workflows
+
+Analyzed customers, orders, payments, products, and delivery data
+
+Built a revenue analysis and forecasting workflow
+
+Python SQL MySQL Database Design Data Analytics Forecasting
+
+</td>
+</tr>
+</table>
+
+Technical stack
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"
-/>
+Languages
 
-<img
-  width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=transparent"
-/>
+<img src="https://skillicons.dev/icons?i=python,cpp,rust,mysql&theme=dark" alt="Python, C++, Rust and MySQL">
+&nbsp;
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge" alt="Verilog">
+
+Data and machine learning
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+
+Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code and Linux">
 
 </div>
+
+Working principles
+
+<table>
+<tr>
+<td align="center" width="25%"><b>01</b><br>Define the problem</td>
+<td align="center" width="25%"><b>02</b><br>Measure the baseline</td>
+<td align="center" width="25%"><b>03</b><br>Build reproducibly</td>
+<td align="center" width="25%"><b>04</b><br>Evaluate honestly</td>
+</tr>
+</table>
+
+GitHub overview
 
 <div align="center">
 
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=default&rank_icon=github"
+  >
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&rank_icon=github" alt="Dle28 GitHub statistics">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=github_dark"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=default"
+  >
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true" alt="Dle28 most used languages">
+</picture>
 
 </div>
 
----
-
-## 🐍 Contribution Activity
+Contact
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
-  width="100%"
-/>
+Interested in quantitative research, machine learning, data systems, and software engineering.
 
-</div>
 
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel">
-</a>
-
-</div>
 
 <br>
 
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"
-  width="100%"
-/>
+<sub>Mathematical thinking · Measurable results · Reproducible systems</sub>
 
 </div>
