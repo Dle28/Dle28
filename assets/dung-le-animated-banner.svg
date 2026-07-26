@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Animated banner for Dũng Lê</title>
+  <desc id="desc">A neon pixel-style animated banner with the name Dũng Lê, glowing stars, floating cubes, city skyline and a moving data trail.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#040818"/>
+      <stop offset="48%" stop-color="#071B47"/>
+      <stop offset="100%" stop-color="#0A2960"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="50%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#60A5FA"/>
+      <stop offset="100%" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="textGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .star { animation: twinkle 3.2s ease-in-out infinite; transform-origin:center; }
+      .star.s2 { animation-delay: .8s; }
+      .star.s3 { animation-delay: 1.6s; }
+      .star.s4 { animation-delay: 2.2s; }
+      .cube1 { animation: float1 5.5s ease-in-out infinite; }
+      .cube2 { animation: float2 6.2s ease-in-out infinite; }
+      .cube3 { animation: float3 4.8s ease-in-out infinite; }
+      .titleGlow { animation: pulse 3.8s ease-in-out infinite; }
+      .waveMove { stroke-dasharray: 8 12; animation: dashMove 8s linear infinite; }
+      .bars rect { animation: bars 2.6s ease-in-out infinite; transform-box: fill-box; transform-origin: center bottom; }
+      .bars rect:nth-child(2) { animation-delay: .2s; }
+      .bars rect:nth-child(3) { animation-delay: .4s; }
+      .bars rect:nth-child(4) { animation-delay: .15s; }
+      .bars rect:nth-child(5) { animation-delay: .55s; }
+      .bars rect:nth-child(6) { animation-delay: .3s; }
+      .bars rect:nth-child(7) { animation-delay: .75s; }
+      .bars rect:nth-child(8) { animation-delay: .5s; }
+      .bars rect:nth-child(9) { animation-delay: .95s; }
+      .bars rect:nth-child(10){ animation-delay: .65s; }
+      .signalDot { animation: flow 4.5s linear infinite; }
+      .signalDot.d2 { animation-delay: 1.5s; }
+      .signalDot.d3 { animation-delay: 3s; }
+      .network { animation: pulseNet 4.5s ease-in-out infinite; }
+      @keyframes twinkle {
+        0%,100% { opacity: .35; transform: scale(.9); }
+        50% { opacity: 1; transform: scale(1.25); }
+      }
+      @keyframes float1 {
+        0%,100% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(-10px) translateX(4px); }
+      }
+      @keyframes float2 {
+        0%,100% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(11px) translateX(-5px); }
+      }
+      @keyframes float3 {
+        0%,100% { transform: translateY(0px) translateX(0px); }
+        50% { transform: translateY(-7px) translateX(-4px); }
+      }
+      @keyframes pulse {
+        0%,100% { opacity: .92; }
+        50% { opacity: 1; }
+      }
+      @keyframes dashMove {
+        from { stroke-dashoffset: 0; }
+        to { stroke-dashoffset: -120; }
+      }
+      @keyframes bars {
+        0%,100% { transform: scaleY(.65); opacity: .75; }
+        50% { transform: scaleY(1); opacity: 1; }
+      }
+      @keyframes flow {
+        0% { opacity: 0; transform: translateX(-60px) translateY(20px); }
+        15% { opacity: 1; }
+        85% { opacity: 1; }
+        100% { opacity: 0; transform: translateX(60px) translateY(-15px); }
+      }
+      @keyframes pulseNet {
+        0%,100% { opacity: .7; }
+        50% { opacity: 1; }
+      }
+      text { font-family: 'Segoe UI', Inter, Arial, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect width="1400" height="420" rx="28" fill="none" stroke="#0EA5E9" stroke-opacity=".08"/>
+
+  <g fill="#FFFFFF">
+    <circle class="star" cx="110" cy="70" r="2.2"/>
+    <circle class="star s2" cx="268" cy="110" r="2"/>
+    <circle class="star s3" cx="420" cy="52" r="2.7"/>
+    <circle class="star s4" cx="632" cy="72" r="1.7"/>
+    <circle class="star" cx="812" cy="58" r="2.3"/>
+    <circle class="star s2" cx="960" cy="92" r="2"/>
+    <circle class="star s3" cx="1180" cy="77" r="2.9"/>
+    <circle class="star s4" cx="1262" cy="126" r="2.1"/>
+    <circle class="star" cx="1022" cy="174" r="2.6"/>
+    <circle class="star s2" cx="1134" cy="204" r="1.9"/>
+    <circle class="star s3" cx="871" cy="231" r="2.1"/>
+    <circle class="star s4" cx="529" cy="264" r="2.4"/>
+    <circle class="star" cx="361" cy="310" r="2.1"/>
+    <circle class="star s2" cx="985" cy="316" r="2.4"/>
+  </g>
+
+  <g opacity=".95">
+    <path d="M0 360 L0 420 L420 420 L420 360
+             L392 360 L392 276 L382 276 L382 330 L370 330 L370 292 L357 292 L357 344 L343 344 L343 260 L326 260 L326 350
+             L308 350 L308 298 L295 298 L295 355 L278 355 L278 314 L262 314 L262 360
+             L244 360 L244 244 L228 244 L228 360 L210 360 L210 286 L198 286 L198 360
+             L177 360 L177 219 L160 219 L160 360 L142 360 L142 275 L130 275 L130 360
+             L111 360 L111 196 L95 196 L95 360 L75 360 L75 108 L58 108 L58 360 L36 360 L36 154 L22 154 L22 360 Z"
+          fill="#091634"/>
+    <g fill="#8B5CF6" opacity=".9">
+      <rect x="60" y="118" width="4" height="20"/><rect x="62" y="145" width="3" height="12"/>
+      <rect x="96" y="208" width="4" height="18"/><rect x="98" y="236" width="3" height="11"/>
+      <rect x="162" y="228" width="4" height="15"/><rect x="164" y="250" width="3" height="10"/>
+      <rect x="229" y="252" width="4" height="16"/><rect x="232" y="274" width="3" height="12"/>
+      <rect x="327" y="268" width="4" height="18"/><rect x="329" y="292" width="3" height="13"/>
+      <rect x="384" y="284" width="4" height="15"/>
+    </g>
+    <g fill="#38BDF8">
+      <rect x="54" y="164" width="5" height="3"/><rect x="54" y="174" width="5" height="3"/><rect x="54" y="184" width="5" height="3"/>
+      <rect x="92" y="232" width="5" height="3"/><rect x="92" y="242" width="5" height="3"/>
+      <rect x="157" y="252" width="5" height="3"/><rect x="157" y="262" width="5" height="3"/>
+      <rect x="224" y="282" width="5" height="3"/><rect x="224" y="292" width="5" height="3"/>
+      <rect x="323" y="298" width="5" height="3"/><rect x="323" y="308" width="5" height="3"/>
+      <rect x="378" y="308" width="5" height="3"/>
+    </g>
+  </g>
+
+  <g opacity=".9">
+    <path d="M1010 420 L1010 356 L1058 316 L1094 348 L1122 327 L1170 362 L1216 310 L1268 358 L1314 327 L1360 366 L1400 346 L1400 420 Z" fill="#081737"/>
+    <path d="M1086 420 L1086 366 L1126 338 L1161 368 L1214 314 L1272 373 L1326 338 L1378 379 L1400 365 L1400 420 Z" fill="#0A1B44"/>
+  </g>
+
+  <g class="network" stroke="#38BDF8" stroke-width="2" fill="none" opacity=".85">
+    <path d="M1218 86 L1282 56 L1338 76 L1358 132 L1312 156 L1248 124 Z" stroke-dasharray="4 5"/>
+    <path d="M1248 124 L1312 156 L1268 210 L1202 182 Z" stroke-dasharray="4 5"/>
+    <path d="M1218 86 L1202 182 L1268 210 L1358 132" stroke-dasharray="4 5"/>
+    <g fill="#A855F7" stroke="none">
+      <circle cx="1218" cy="86" r="5"/><circle cx="1282" cy="56" r="5"/><circle cx="1338" cy="76" r="5"/>
+      <circle cx="1358" cy="132" r="5"/><circle cx="1312" cy="156" r="5"/><circle cx="1248" cy="124" r="5"/>
+      <circle cx="1202" cy="182" r="5"/><circle cx="1268" cy="210" r="5"/>
+    </g>
+    <g fill="#E0F2FE" stroke="none">
+      <circle cx="1218" cy="86" r="2.2"/><circle cx="1282" cy="56" r="2.2"/><circle cx="1338" cy="76" r="2.2"/>
+      <circle cx="1358" cy="132" r="2.2"/><circle cx="1312" cy="156" r="2.2"/><circle cx="1248" cy="124" r="2.2"/>
+      <circle cx="1202" cy="182" r="2.2"/><circle cx="1268" cy="210" r="2.2"/>
+    </g>
+  </g>
+
+  <g>
+    <g class="cube1" transform="translate(176 96)">
+      <polygon points="0,20 26,4 52,20 26,36" fill="#38BDF8"/>
+      <polygon points="0,20 0,50 26,66 26,36" fill="#1D4ED8"/>
+      <polygon points="52,20 52,50 26,66 26,36" fill="#2563EB"/>
+    </g>
+    <g class="cube2" transform="translate(514 44) scale(.8)">
+      <polygon points="0,20 26,4 52,20 26,36" fill="#A855F7"/>
+      <polygon points="0,20 0,50 26,66 26,36" fill="#7E22CE"/>
+      <polygon points="52,20 52,50 26,66 26,36" fill="#9333EA"/>
+    </g>
+    <g class="cube3" transform="translate(1018 36) scale(.55)">
+      <polygon points="0,20 26,4 52,20 26,36" fill="#38BDF8"/>
+      <polygon points="0,20 0,50 26,66 26,36" fill="#1D4ED8"/>
+      <polygon points="52,20 52,50 26,66 26,36" fill="#2563EB"/>
+    </g>
+    <g class="cube1" transform="translate(871 96) scale(.55)">
+      <polygon points="0,20 26,4 52,20 26,36" fill="#A855F7"/>
+      <polygon points="0,20 0,50 26,66 26,36" fill="#7E22CE"/>
+      <polygon points="52,20 52,50 26,66 26,36" fill="#9333EA"/>
+    </g>
+    <g class="cube2" transform="translate(1325 151) scale(.9)">
+      <polygon points="0,20 26,4 52,20 26,36" fill="#A855F7"/>
+      <polygon points="0,20 0,50 26,66 26,36" fill="#7E22CE"/>
+      <polygon points="52,20 52,50 26,66 26,36" fill="#9333EA"/>
+    </g>
+  </g>
+
+  <g opacity="1">
+    <rect x="430" y="98" width="720" height="212" rx="24" fill="#050B1E" fill-opacity=".45" stroke="url(#frame)" stroke-width="4" filter="url(#softGlow)"/>
+    <path d="M451 123 L514 123" stroke="#22D3EE" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1068 123 L1129 123" stroke="#C084FC" stroke-width="4" stroke-linecap="round"/>
+    <path d="M448 286 L529 286" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1004 286 L1093 286" stroke="#A855F7" stroke-width="4" stroke-linecap="round"/>
+    <path d="M585 119 L612 119" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/>
+    <path d="M618 119 L642 119" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/>
+    <path d="M931 119 L958 119" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/>
+    <path d="M964 119 L988 119" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g class="titleGlow" filter="url(#textGlow)">
+    <text x="790" y="232" text-anchor="middle" font-size="88" font-weight="800" fill="#E0F2FE" letter-spacing="-2">Dũng Lê</text>
+    <text x="790" y="232" text-anchor="middle" font-size="88" font-weight="800" fill="#7DD3FC" opacity=".35" transform="translate(0,3)">Dũng Lê</text>
+  </g>
+
+  <g opacity=".95">
+    <path d="M754 278 L773 278 M808 278 L827 278" stroke="#38BDF8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M782 268 L792 278 L782 288" fill="none" stroke="#C084FC" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M799 268 L789 278 L799 288" fill="none" stroke="#38BDF8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="790" cy="278" r="3.5" fill="#E0F2FE"/>
+  </g>
+
+  <g fill="none" stroke="url(#wave)" stroke-width="4" filter="url(#softGlow)">
+    <path d="M875 352 C965 314, 1008 352, 1098 333 S1268 264, 1344 264" class="waveMove"/>
+    <path d="M854 379 C951 355, 1030 384, 1116 363 S1268 318, 1360 304" stroke-opacity=".45" stroke-width="3" class="waveMove"/>
+  </g>
+  <g>
+    <circle class="signalDot" cx="962" cy="341" r="4" fill="#E0F2FE"/>
+    <circle class="signalDot d2" cx="1016" cy="346" r="4" fill="#7DD3FC"/>
+    <circle class="signalDot d3" cx="1082" cy="337" r="4" fill="#C084FC"/>
+  </g>
+
+  <g class="bars" transform="translate(1248 330)">
+    <rect x="0" y="34" width="11" height="40" rx="2" fill="#1D4ED8"/>
+    <rect x="18" y="22" width="11" height="52" rx="2" fill="#38BDF8"/>
+    <rect x="36" y="9" width="11" height="65" rx="2" fill="#60A5FA"/>
+    <rect x="54" y="28" width="11" height="46" rx="2" fill="#A855F7"/>
+    <rect x="72" y="0" width="11" height="74" rx="2" fill="#C084FC"/>
+    <rect x="90" y="18" width="11" height="56" rx="2" fill="#7DD3FC"/>
+    <rect x="108" y="42" width="11" height="32" rx="2" fill="#1D4ED8"/>
+    <rect x="126" y="14" width="11" height="60" rx="2" fill="#38BDF8"/>
+    <rect x="144" y="25" width="11" height="49" rx="2" fill="#60A5FA"/>
+    <rect x="162" y="7" width="11" height="67" rx="2" fill="#A855F7"/>
+  </g>
+</svg>
