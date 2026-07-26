@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Dũng Lê — Dark Cave GitHub Banner</title>
+  <desc id="desc">A minimalist block-inspired dark cave banner highlighting AI, quantitative research, computer vision and NLP.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07090d"/>
+      <stop offset="55%" stop-color="#0c1118"/>
+      <stop offset="100%" stop-color="#111821"/>
+    </linearGradient>
+
+    <radialGradient id="torchGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffd56a" stop-opacity="0.52"/>
+      <stop offset="45%" stop-color="#ff9f43" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#ff9f43" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+
+    <pattern id="blocks" width="80" height="80" patternUnits="userSpaceOnUse">
+      <rect width="80" height="80" fill="none"/>
+      <path d="M0 80V0H80" fill="none" stroke="#26303a" stroke-width="1" opacity="0.32"/>
+      <path d="M8 18h24v9H8zM48 48h17v8H48zM21 60h12v7H21z" fill="#26303a" opacity="0.12"/>
+    </pattern>
+
+    <style>
+      .pixel { font-family: "Courier New", monospace; }
+      .muted { fill: #88939e; }
+      .bright { fill: #e8edf2; }
+      .green { fill: #55d68b; }
+    </style>
+  </defs>
+
+  <rect width="1400" height="420" fill="url(#bg)"/>
+  <rect width="1400" height="420" fill="url(#blocks)"/>
+
+  <!-- Cave ceiling -->
+  <path d="M0 0H1400V48h-88v42h-94V58h-122v66h-92V82H884v55H772V74H652v48H544V66H432v57H324V82H212v34H100V72H0Z"
+        fill="#05070a"/>
+  <path d="M0 0H1400V28h-140v37h-120V39H980v52H810V45H640v42H480V38H300v54H150V52H0Z"
+        fill="#0b0e13" opacity="0.95"/>
+
+  <!-- Cave floor -->
+  <path d="M0 344h110v-45h96v67h112v-34h118v54h130v-62h122v38h132v-75h112v58h116v-33h122v52h110v56H0Z"
+        fill="#070a0e"/>
+  <path d="M0 382h170v-36h135v42h150v-24h150v37h170v-42h140v33h155v-22h150v34h170v16H0Z"
+        fill="#111720"/>
+
+  <!-- Emerald ore -->
+  <g opacity="0.9">
+    <rect x="1095" y="110" width="22" height="22" fill="#13261d"/>
+    <rect x="1100" y="115" width="8" height="8" fill="#55d68b"/>
+    <rect x="1140" y="145" width="22" height="22" fill="#13261d"/>
+    <rect x="1147" y="151" width="8" height="8" fill="#55d68b"/>
+    <rect x="1060" y="165" width="22" height="22" fill="#13261d"/>
+    <rect x="1067" y="172" width="8" height="8" fill="#55d68b"/>
+  </g>
+
+  <!-- Torch -->
+  <circle cx="1210" cy="250" r="150" fill="url(#torchGlow)" filter="url(#softGlow)"/>
+  <rect x="1203" y="245" width="14" height="74" rx="2" fill="#6b4423"/>
+  <rect x="1200" y="230" width="20" height="28" fill="#d66b2c"/>
+  <rect x="1204" y="220" width="12" height="20" fill="#ffd56a"/>
+  <rect x="1207" y="213" width="6" height="13" fill="#fff0a6"/>
+
+  <!-- Main content -->
+  <text x="110" y="172" class="pixel bright" font-size="60" font-weight="700" letter-spacing="4">DŨNG LÊ</text>
+  <text x="114" y="219" class="pixel green" font-size="22" font-weight="700" letter-spacing="2">AI · QUANT RESEARCH · COMPUTER VISION · NLP</text>
+
+  <g transform="translate(112 258)">
+    <rect width="580" height="60" rx="4" fill="#080c11" stroke="#28323c"/>
+    <rect x="0" y="0" width="8" height="60" fill="#55d68b"/>
+    <text x="28" y="26" class="pixel muted" font-size="15">Dle28@github:~$</text>
+    <text x="190" y="26" class="pixel bright" font-size="15">build --from-data --with-purpose</text>
+    <text x="28" y="48" class="pixel muted" font-size="13">status: exploring deeper systems</text>
+  </g>
+
+  <!-- Minimal crosshair -->
+  <g transform="translate(930 220)" opacity="0.45" stroke="#53606c" stroke-width="2">
+    <path d="M-22 0H22M0-22V22"/>
+    <rect x="-5" y="-5" width="10" height="10" fill="none"/>
+  </g>
+
+  <rect x="22" y="22" width="1356" height="376" fill="none" stroke="#202832" stroke-width="2"/>
+</svg>
