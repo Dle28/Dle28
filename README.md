@@ -1,141 +1,144 @@
 <div align="center">
 
-<img src="./assets/dark-cave-banner.svg" width="100%" alt="Dũng Lê — AI, Quant Research, Computer Vision and NLP" />
+<img src="./assets/hero-main.png" width="100%" alt="Dũng Lê Minecraft Banner" />
 
-<br/>
+# Dũng Lê
 
-<code>AI / MACHINE LEARNING</code>
-&nbsp;·&nbsp;
-<code>DATA / QUANT RESEARCH</code>
-&nbsp;·&nbsp;
-<code>COMPUTER VISION / NLP</code>
+### AI · Data Science · Computer Vision · NLP · Quant Research
 
-<br/><br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffd43b" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
+  <img src="https://img.shields.io/badge/Data%20Science-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Quant%20Research-111111?style=for-the-badge" />
+</p>
 
-<sub>Building intelligent systems from data, signals and pixels.</sub>
+<sub>Building intelligent systems from data, signals, and vision.</sub>
 
 </div>
 
-<br/>
+---
 
-```text
-Dle28@github:~$ inspect --skills
+<div align="center">
+  <img src="./assets/about-me.png" width="100%" alt="About Me Banner" />
+</div>
 
-STATUS     exploring the cave
-PRIMARY    Python · Machine Learning · Quantitative Research
-FOCUS      Computer Vision · Natural Language Processing
-SYSTEM     Linux · Git · Jupyter · VS Code
-```
+## About Me
 
-## `01 / CORE STACK`
+- Passionate about turning **data into intelligence** and **ideas into working systems**
+- Interested in **AI / Machine Learning**, **Data Science**, **Computer Vision**, **NLP**, and **Quant Research**
+- I enjoy building practical projects around **model training**, **feature engineering**, **vision-language systems**, and **time-series analysis**
+- Preferred workflow: **Python + Linux + Git + experimentation**
 
-<table>
-<tr>
-<td width="33%" valign="top">
+---
 
-### AI / ML
+<div align="center">
+  <img src="./assets/tech-skills.png" width="100%" alt="Tech Skills Banner" />
+</div>
 
-`Python`  
-`PyTorch`  
-`scikit-learn`  
-`NumPy`  
-`pandas`
-
-Model training · feature engineering · evaluation · fine-tuning
-
-</td>
-<td width="33%" valign="top">
-
-### Quant Research
-
-`Time Series`  
-`OHLCV Analysis`  
-`Backtesting`  
-`Signal Research`  
-`Risk & Position Sizing`
-
-Market data · futures research · systematic experimentation
-
-</td>
-<td width="33%" valign="top">
-
-### CV / NLP
-
-`OpenCV`  
-`YOLOv8`  
-`Vision Transformer`  
-`BERT`  
-`Tokenization`
-
-Detection · segmentation · image–text learning · text classification
-
-</td>
-</tr>
-</table>
-
-## `02 / SKILL MAP`
-
-```text
-AI / MACHINE LEARNING
-├── supervised learning
-├── deep learning with PyTorch
-├── model training and validation
-├── feature engineering
-└── experiment analysis
-
-DATA / QUANT RESEARCH
-├── data cleaning and exploratory analysis
-├── time-series feature construction
-├── signal generation and backtesting
-├── strategy evaluation
-└── risk-aware position logic
-
-COMPUTER VISION
-├── image preprocessing
-├── object detection
-├── instance segmentation
-├── visual representation learning
-└── video and football analytics
-
-NATURAL LANGUAGE PROCESSING
-├── text normalization
-├── tokenization
-├── BERT-based modeling
-├── text classification
-└── medical text processing
-```
-
-## `03 / ENGINEERING TOOLS`
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=F7DF1E" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5CFF5C" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/pandas-111827?style=flat-square&logo=pandas&logoColor=E6E6FA" alt="pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=4DABCF" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=69A7C4" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=00C7A5" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=F5F5F5" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
-</p>
-
-## `04 / CURRENT DEPTH`
-
-```text
-[████████░░] Python & data processing
-[███████░░░] Machine learning
-[██████░░░░] Computer vision
-[██████░░░░] Quantitative research
-[█████░░░░░] Natural language processing
-```
+## Tech Skills
 
 <div align="center">
 
+`Python` · `PyTorch` · `TensorFlow` · `scikit-learn` · `NumPy` · `pandas`  
+`OpenCV` · `YOLO` · `BERT` · `Vision-Language` · `Time Series` · `Backtesting`
+
+</div>
+
+| Area | Highlights |
+|---|---|
+| **Programming** | Python, SQL, scripting, data workflows |
+| **AI / ML** | Model training, deep learning, feature engineering, evaluation |
+| **Data Science** | Data cleaning, EDA, feature construction, experiment tracking |
+| **Computer Vision** | OpenCV, detection, segmentation, YOLO-based workflows |
+| **NLP** | BERT workflows, tokenization, classification, information extraction |
+| **Quant Research** | Time series, signals, backtesting, systematic research |
+| **Tools** | Linux, Git, VS Code, Jupyter, FastAPI, Docker |
+
+---
+
+<div align="center">
+  <img src="./assets/ai-ml.png" width="100%" alt="AI ML Banner" />
+</div>
+
+## AI / Machine Learning
+
+- Model training
+- Deep learning workflows
+- Feature engineering
+- Evaluation and experimentation
+- Practical ML pipelines
+
+---
+
+<div align="center">
+  <img src="./assets/data-quant.png" width="100%" alt="Data Quant Banner" />
+</div>
+
+## Data Science / Quant Research
+
+- Time-series analysis
+- Backtesting
+- Signal research
+- Data exploration
+- Research-driven experimentation
+
+---
+
+<div align="center">
+  <img src="./assets/cv-nlp.png" width="100%" alt="CV NLP Banner" />
+</div>
+
+## Computer Vision / NLP
+
+- OpenCV pipelines
+- YOLO-based detection
+- BERT-based text workflows
+- Vision-language exploration
+- Medical / applied NLP interest
+
+---
+
+<div align="center">
+  <img src="./assets/tools.png" width="100%" alt="Tools Banner" />
+</div>
+
+## Tools
+
+<div align="center">
+
+`Linux` · `Git` · `VS Code` · `Jupyter` · `FastAPI` · `Docker`
+
+</div>
+
+---
+
+## Current Focus
+
 ```text
-     ⛏ keep mining · keep testing · keep building
+[█████████░] Python
+[████████░░] AI / Machine Learning
+[███████░░░] Data Science
+[███████░░░] Computer Vision
+[██████░░░░] NLP
+[██████░░░░] Quant Research
 ```
 
-<sub>github.com/Dle28</sub>
+---
+
+## Connect
+
+- GitHub: `github.com/Dle28`
+- LinkedIn: `linkedin.com/in/dle28`
+- Email: `dung.levc2810@gmail.com`
+
+---
+
+<div align="center">
+
+**Thanks for visiting.**  
+*Build block by block. Learn step by step.*
 
 </div>
