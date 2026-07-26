@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://avatars.githubusercontent.com/Dle28?v=4" width="110" style="border-radius: 50%;" alt="Dũng Lê avatar" />
-
 # Dũng Lê
 
 ### AI · Data Science · Mathematics & Informatics
@@ -126,7 +122,5 @@ I enjoy turning ideas into practical projects with:
 </a>
 
 <br><br>
-
-<sub><b>AI + Data Science focused • No banner • Clean, unique, and recruiter-friendly</b></sub>
 
 </div>
