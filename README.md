@@ -21,13 +21,6 @@
 
 <i>Building practical systems with data, experimentation, and continuous learning.</i>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Data%20Science-7C3AED?style=for-the-badge" alt="Focus AI + Data Science">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-16A34A?style=for-the-badge" alt="Open to collaborate">
-</p>
-
-<i>Building practical systems with data, experimentation, and continuous learning.</i>
-
 </div>
 
 ## 🎓 About Me
