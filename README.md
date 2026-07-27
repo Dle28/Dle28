@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
-
 # Hi, I'm Dũng Lê 👋
 
 ### AI Enthusiast · Data Science · Mathematics & Informatics
@@ -21,8 +19,6 @@
 </p>
 
 <i>Building practical systems with data, experimentation, and continuous learning.</i>
-
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
 
 </div>
 
