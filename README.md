@@ -70,18 +70,14 @@ principles:
   <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" width="100%" />
 </td>
 <td width="50%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" width="100%" />
 </td>
 </tr>
 <tr>
@@ -95,7 +91,6 @@ principles:
 </table>
 </div>
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
 
 ## 📫 Let's Connect
 
