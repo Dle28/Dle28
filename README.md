@@ -1,126 +1,110 @@
-# Dũng Lê
+<div align="center">
 
-### AI · Data Science · Mathematics & Informatics
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:16A34A&height=220&section=header&text=Dũng%20Lê&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%C2%B7%20Data%20Science%20%C2%B7%20Mathematics%20%26%20Informatics&descAlignY=58&descSize=20" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+practical+AI+systems...;Turning+data+into+decisions...;Reproducible+ML+workflows...;Always+learning%2C+always+iterating." alt="Typing SVG" />
 
 <p>
   <a href="mailto:dung.levc2810@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dung.levc2810%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-dung.levc2810%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email">
   </a>
   <a href="https://github.com/Dle28">
-    <img src="https://img.shields.io/badge/GitHub-Dle28-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Dle28-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub">
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Data%20Science-7C3AED?style=for-the-badge" alt="Focus AI + Data Science">
 </p>
-
-<p><b>Building practical systems with data, experimentation, and continuous learning.</b></p>
-
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
 
 </div>
 
-<table>
-<tr>
-<td width="62%" valign="top">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&width=100%25" width="100%" alt="divider" />
 
-## About Me
+## 🎓 About Me
 
-I am a **Mathematics and Informatics undergraduate** at **Hanoi University of Science and Technology**.
+I'm a **Mathematics and Informatics** undergraduate at **Hanoi University of Science and Technology (HUST)**, focused on turning ideas into practical, reproducible projects.
 
-My main direction is:
+```yaml
+name: "Dũng Lê"
+role: "AI / Data Science Student"
+university: "Hanoi University of Science and Technology"
+interests:
+  - Artificial Intelligence
+  - Data Science
+  - Machine Learning
+  - Quantitative Thinking
+  - Database Systems
+  - Software Engineering
+principles:
+  - clear structure
+  - measurable results
+  - reproducible workflows
+  - steady iteration
+```
 
-- **Artificial Intelligence**
-- **Data Science**
-- **Machine Learning**
-- **Quantitative Thinking**
-- **Database Systems**
-- **Software Engineering**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:16A34A&height=3&width=100%25" width="100%" alt="divider" />
 
-I enjoy turning ideas into practical projects with:
+## 🛠️ Tech Stack
 
-- clear structure,
-- measurable results,
-- reproducible workflows,
-- and steady iteration.
-
-</td>
-<td width="38%" valign="top" align="center">
-
-<img src="./assets/ai-data-orbit.svg" width="180" alt="AI Data orbit animation" />
-
-### Current Focus
-`Python` · `Machine Learning`  
-`Data Analysis` · `SQL`  
-`Research Mindset` · `Problem Solving`
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
-
-## Tech Skills
-
-### Languages
+**Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,rust,mysql&theme=dark" alt="Languages" />
-  <img src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Verilog-7C3AED?style=for-the-badge" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0F172A" alt="SQL" />
+  <img src="https://img.shields.io/badge/Verilog-7C3AED?style=for-the-badge&labelColor=0F172A" alt="Verilog" />
 </p>
 
-### AI / Data Science
+**AI / Data Science**
 <p>
   <img src="https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-0EA5E9?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Jupyter-F97316?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=for-the-badge&logoColor=white&labelColor=0F172A" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-0EA5E9?style=for-the-badge&labelColor=0F172A" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Jupyter-F97316?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0F172A" alt="Jupyter" />
 </p>
 
-### Tools
+**Tools & Platforms**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
-  <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0F172A" alt="MySQL" />
 </p>
 
-### Interests
-`AI` · `Data Science` · `Machine Learning` · `Data Analytics` · `Database Design` · `Backend Development`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16A34A,100:7C3AED&height=3&width=100%25" width="100%" alt="divider" />
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
+## 📊 GitHub Analytics
 
-## GitHub Analytics
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-</td>
-<td width="50%" valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dle28&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</td>
-<td width="50%" valign="top">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dle28&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=Dle28&show_icons=true&hide_border=true&theme=synthwave&rank_icon=github&include_all_commits=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dle28&layout=compact&hide_border=true&theme=synthwave" alt="Top languages" width="49%" />
 
-<img src="./assets/neon-divider.svg" width="100%" alt="divider" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dle28&theme=synthwave&hide_border=true" alt="GitHub streak" width="70%" />
 
-## Contact
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dle28&theme=synthwave&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dle28/Dle28/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+</div>
+
+> 💡 The snake animation above renders once the `github-actions/github-actions-snake` workflow is set up on the profile repo — ask if you'd like the workflow file to generate it automatically.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:2563EB&height=3&width=100%25" width="100%" alt="divider" />
+
+## 📫 Let's Connect
 
 <div align="center">
 
 <a href="mailto:dung.levc2810@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email">
+  <img src="https://img.shields.io/badge/Send_Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Send email">
 </a>
 <a href="https://github.com/Dle28">
-  <img src="https://img.shields.io/badge/View_Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="View profile">
+  <img src="https://img.shields.io/badge/View_Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="View profile">
 </a>
 
 <br><br>
 
+<sub>⭐ Thanks for stopping by — always happy to talk about AI, data, and interesting problems.</sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A34A,50:2563EB,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
