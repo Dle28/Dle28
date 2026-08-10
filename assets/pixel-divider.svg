@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="42" viewBox="0 0 1200 42">
+  <rect width="1200" height="42" fill="#0d1117"/>
+  <g fill="#30363d">
+    <rect x="24" y="19" width="1152" height="4"/>
+  </g>
+  <g fill="#39ff88">
+    <rect x="24" y="14" width="10" height="14"/><rect x="42" y="16" width="8" height="10"/>
+    <rect x="1166" y="14" width="10" height="14"/><rect x="1150" y="16" width="8" height="10"/>
+  </g>
+  <rect x="80" y="19" width="120" height="4" fill="#58a6ff">
+    <animate attributeName="x" values="80;1000;80" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+  <g fill="#d2a8ff">
+    <rect x="575" y="12" width="10" height="10"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></rect>
+    <rect x="595" y="12" width="10" height="10"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></rect>
+    <rect x="615" y="12" width="10" height="10"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
