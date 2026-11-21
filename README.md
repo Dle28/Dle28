@@ -39,6 +39,10 @@ UI design · Responsive layouts · Data visualization · HTML · CSS · TypeScri
 <img src="https://img.shields.io/badge/Numerical%20Methods-3C817A?style=flat-square" alt="Numerical Methods" />
 <img src="https://img.shields.io/badge/Optimization-3C817A?style=flat-square" alt="Optimization" />
 
+**AI &amp; automation**
+
+Generative AI · LLM APIs · AI-assisted development
+
 <img src="./assets/valorant-scene.png" width="36%" align="right" alt="The developer playing a tactical shooter" />
 
 ## Systems &amp; DevOps
