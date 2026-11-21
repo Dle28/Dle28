@@ -1,15 +1,15 @@
 <div align="center">
 <img src="./assets/profile-banner.svg" width="73%" alt="DUNG LE — The most beautiful things are all around us!" />
-<img src="./assets/owl-mascot.png" width="23%" alt="The owl, the profile's main symbol" />
+<img src="./assets/dev-avatar.png" width="23%" alt="Developer character wearing a HUST jacket" />
 </div>
 
-<img src="./assets/throughline.svg" width="100%" alt="Hand-drawn line connecting mathematics, an owl, code, interfaces, and systems" />
+<img src="./assets/throughline.svg" width="100%" alt="Hand-drawn line connecting mathematics, development, interfaces, and gaming" />
 
 ## About
 
-I'm Dung Le, a Mathematics and Informatics student at Hanoi University of Science and Technology. I enjoy turning mathematical ideas into useful software and clear interfaces.
+I'm Dung Le, a Mathematics and Informatics student at HUST. I build software, sketch interfaces, and spend my downtime on Valorant.
 
-<img src="./assets/owl-math.png" width="19%" align="right" alt="The owl sketching a parabola" />
+<img src="./assets/dev-math.png" width="24%" align="right" alt="The developer sketching a mathematical curve" />
 
 ## Mathematics
 
@@ -23,7 +23,7 @@ UI design · Responsive layouts · Data visualization · HTML · CSS · TypeScri
 
 ## Toolbox
 
-**Languages &amp; programming**
+**Languages &amp; development**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
@@ -39,13 +39,15 @@ UI design · Responsive layouts · Data visualization · HTML · CSS · TypeScri
 <img src="https://img.shields.io/badge/Numerical%20Methods-3C817A?style=flat-square" alt="Numerical Methods" />
 <img src="https://img.shields.io/badge/Optimization-3C817A?style=flat-square" alt="Optimization" />
 
-<img src="./assets/owl-systems.png" width="19%" align="right" alt="The owl presenting a successful deployment" />
+<img src="./assets/valorant-scene.png" width="36%" align="right" alt="The developer playing a tactical shooter" />
 
 ## Systems &amp; DevOps
 
 Linux · Git/GitHub · Docker · GitHub Actions · CI/CD · Deployment
 
-<img src="./assets/throughline.svg" width="100%" alt="" />
+## Valorant
+
+Off the clock: one more match.
 
 ## Star this profile
 
