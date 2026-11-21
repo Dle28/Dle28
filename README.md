@@ -25,25 +25,21 @@ UI design · Responsive layouts · Data visualization · HTML · CSS · TypeScri
 
 **Languages &amp; development**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
-<img src="https://img.shields.io/badge/Rust-B5654D?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" /> <img src="https://img.shields.io/badge/Rust-B5654D?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
 **Math &amp; data**
 
-<img src="https://img.shields.io/badge/NumPy-4D7C8A?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-4D7C8A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Numerical%20Methods-3C817A?style=flat-square" alt="Numerical Methods" />
-<img src="https://img.shields.io/badge/Optimization-3C817A?style=flat-square" alt="Optimization" />
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-4D7C8A?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-4D7C8A?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Numerical%20Methods-3C817A?style=flat-square" alt="Numerical Methods" /> <img src="https://img.shields.io/badge/Linear%20Algebra-3C817A?style=flat-square" alt="Linear Algebra" /> <img src="https://img.shields.io/badge/Statistics-3C817A?style=flat-square" alt="Statistics" /> <img src="https://img.shields.io/badge/Optimization-3C817A?style=flat-square" alt="Optimization" /> <img src="https://img.shields.io/badge/Algorithms-3C817A?style=flat-square" alt="Algorithms" />
+</p>
 
 **AI &amp; automation**
 
-Generative AI · LLM APIs · AI-assisted development
-
-<img src="./assets/valorant-scene.png" width="36%" align="right" alt="The developer playing a tactical shooter" />
+<p align="left">
+<img src="https://img.shields.io/badge/Generative%20AI-907BB2?style=flat-square" alt="Generative AI" /> <img src="https://img.shields.io/badge/LLM%20APIs-907BB2?style=flat-square" alt="LLM APIs" /> <img src="https://img.shields.io/badge/AI--assisted%20development-907BB2?style=flat-square" alt="AI-assisted development" />
+</p>
 
 ## Systems &amp; DevOps
 
@@ -51,7 +47,12 @@ Linux · Git/GitHub · Docker · GitHub Actions · CI/CD · Deployment
 
 ## Valorant
 
-Off the clock: one more match.
+<table>
+<tr>
+<td width="60%" valign="middle"><p>Off the clock: one more match.</p></td>
+<td width="40%" align="center" valign="middle"><img src="./assets/valorant-scene.png" width="320" alt="The developer playing Valorant" /></td>
+</tr>
+</table>
 
 ## Star this profile
 
